@@ -38,7 +38,7 @@ const projects = [
     description:
       "Tindog is a playful mockup of a Tinder-inspired site for dogs, built using the Bootstrap framework. It features a responsive design and custom styling to create a fun, user-friendly experience while showcasing my front-end development skills.",
     stack: [{ name: "HTML5" }, { name: "CSS3" }, { name: "Bootstrap" }],
-    image: "/assets/work/Tindog 1.png",
+    image: "/assets/work/Tindog1.PNG",
     live: "",
     github: "",
   },
@@ -49,7 +49,7 @@ const projects = [
     description:
       "Developed a 2D platformer game in Godot, featuring dynamic water mechanics and fast-paced gameplay. Designed and implemented core features such as player movement, level progression, and a scoring system. Modified prebuilt assets, composed original music, and crafted challenging levels to deliver an engaging and cohesive gaming experience.",
     stack: [{ name: "Godot Engine" }, { name: "GDScript" }, { name: "Ableton Live" }],
-    image: "/assets/work/risingtides.png",
+    image: "/assets/work/risingtides.PNG",
     live: "https://justyodeling.itch.io/rising-tides",
     github: "",
   },
