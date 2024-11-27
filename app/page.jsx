@@ -16,7 +16,7 @@ const Home = () => {
           <div className="text-center xl:text-left order-2 xl:order-none">
             <span className="text-xl">Software Developer</span>
             <h1 className="h1 mb-6">
-              Hello I'm <br /> <span className="text-accent">Paul Steiner</span>
+              Hello I&#39;m <br /> <span className="text-accent">Paul Steiner</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
             I specialize in building robust and efficient software solutions, with expertise in web development, game development, and software engineering. My skills span a range of programming languages, frameworks, and tools, enabling me to deliver high-performance applications and immersive digital experiences.
